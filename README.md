@@ -11,7 +11,7 @@ This is the repository of the ongoing research "Socioeconomic Dynamics of The Lo
 
 ## Data Collection
 
-| **Information**                                   | **Aggregation Level**  | **Years** |   **Source**  |         
+| **Information**                                    |         
 | ------------------------------------------ |:----------------------: | :------------------: | :-----------:
 | Consumo médio percapita de água            | Município        | 2001 até 2017 | SNIS |
 | Índice de esgoto tratado referido à água consumida | Município | 2001 até 2017 | SNIS |
